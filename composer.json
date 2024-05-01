@@ -1,5 +1,5 @@
 {
-  "name": "gemini-api-php/client",
+  "name": "foremtehan/google-gemini-php-client",
   "description": "API client for Google's Gemini API",
   "keywords": [
     "php",
